@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jWvLlkp6oBDv5phBQ0Ozmy0a/nr4+kzfDdFU0m3t6O9A4Xby+wZiWOjtYMzqGprQ8fWpuV/sjKsU/k4XhAFKDA==",
+  "success": true,
+  "projectFilePath": "/Users/evaborton/Documents/2022-2023/Fall/cs334/final_project/code/final_project.fsproj",
+  "expectedPackageFiles": [
+    "/Users/evaborton/.nuget/packages/fsharp.core/6.0.6/fsharp.core.6.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
