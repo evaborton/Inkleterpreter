@@ -52,3 +52,7 @@ dotnet run filepath/program.inkl
 
 This produces a weaving.html file that graphically displays the pattern (the lower grid), which tells the weaver how to manipulate the threads to get the desired pattern, and the warp (the long upper grid), which tells the weaver how to set up the warp, or lengthwise, threads on their loom before they begin weaving. The DIY case produces a warp of the requested size with an empty, interactive pattern grid so that the user can customize their pattern. The pre-existing patterns produce the complete pattern.
 
+## Acknowledgements
+
+Preprogrammed pattern options are adapted/extended from *The Weaver's Inkle Pattern Directory* by Anne Dixon.
+
